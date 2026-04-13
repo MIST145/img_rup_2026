@@ -23,5 +23,29 @@ return {
     ["astron"] = {
         label = "astron",
         image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/astron.png"
+    },
+    ["335i"] = {
+        label = "335i",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/335i.png"
+    },
+    ["bmwm4"] = {
+        label = "bmwm4",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/bmwm4.png"
+    },
+    ["Carreta"] = {
+        label = "Carreta",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/Carreta.png"
+    },
+    ["e92lb"] = {
+        label = "e92lb",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/e92lb.png"
+    },
+    ["hornetagstore"] = {
+        label = "hornetagstore",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/hornetagstore.png"
+    },
+    ["lfa"] = {
+        label = "lfa",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/lfa.png"
     }
 }
