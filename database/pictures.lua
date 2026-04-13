@@ -47,5 +47,13 @@ return {
     ["lfa"] = {
         label = "lfa",
         image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/lfa.png"
+    },
+    ["m2cs"] = {
+        label = "m2cs",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/m2cs.png"
+    },
+    ["m3cst"] = {
+        label = "m3cst",
+        image = "https://raw.githubusercontent.com/MIST145/img_rup_2026/main/origen/m3cst.png"
     }
 }
